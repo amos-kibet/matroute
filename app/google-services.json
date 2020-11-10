@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "857860128309",
+    "firebase_url": "https://mattroute-8cb64.firebaseio.com",
+    "project_id": "mattroute-8cb64",
+    "storage_bucket": "mattroute-8cb64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857860128309:android:8c6c3545590e929a",
+        "android_client_info": {
+          "package_name": "com.example.mattroute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857860128309-ai0698cstd2257tupv5tccg294teo9qm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mattroute",
+            "certificate_hash": "6effbbb11d8b6f739913c25d20d3780dc80c2c0f"
+          }
+        },
+        {
+          "client_id": "857860128309-prgmtdhiqmg1b0phn9ejg9me18aljchu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB7g21grjmff2DMophDvQBHuvCDDUvMkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857860128309-prgmtdhiqmg1b0phn9ejg9me18aljchu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_"
+            android:title="@string/mattroute_home" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/mattroute_settings" />
+        <item
+            android:id="@+id/nav_feedback"
+            android:icon="@drawable/ic_feedback"
+            android:title="@string/mattroute_feedback" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/mattroute_about" />
+
+    </group>
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share"
+                android:title="@string/mattroute_share_app" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_exit"
+                android:title="@string/mattroute_exit_app" />
+        </menu>
+    </item>
+
+</menu>
